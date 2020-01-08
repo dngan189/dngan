@@ -1,1 +1,2 @@
-# dngan
+Daniel Ngan
+OPS435A
